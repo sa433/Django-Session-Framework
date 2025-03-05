@@ -1,5 +1,4 @@
 from django.shortcuts import render, HttpResponse
-print("checking for email id")
 
 # Create your views here.
 def setsession(request):
